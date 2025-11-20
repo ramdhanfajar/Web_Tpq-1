@@ -184,12 +184,12 @@ $koneksi->close();
                     <li><a href="data_master/data_santri.php">Santri</a></li>
                     <li><a href="data_master/data_pengajar.php">Guru</a></li>
                     <li><a href="data_master/data_kelas.php">Kelas</a></li>
-                    <li><a href="#">Tahun Ajaran</a></li>
+                    <li><a href="data_master/tahun_ajaran.php">Tahun Ajaran</a></li>
                 </ul>
             </li>
             
             <li>
-                <a href="#"><i class="fas fa-chart-bar fa-fw"></i> Pengolahan Nilai</a>
+                <a href="pengolahan_nilai.php"><i class="fas fa-chart-bar fa-fw"></i> Pengolahan Nilai</a>
             </li>
 
             <li class="nav-item dropdown">
